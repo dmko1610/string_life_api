@@ -1,0 +1,26 @@
+{
+  "name": "string_life_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmko1610/string_life_api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dmko1610/string_life_api/issues"
+  },
+  "homepage": "https://github.com/dmko1610/string_life_api#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "sqlite": "^5.1.1"
+  }
+}
